@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * times_table - prints 9 times table
+ * print_times_table - prints 9 times table
  * @n: the value of the times table to be printed
  */
-void times_table(int n)
+void print_times_table(int n)
 {
 	int y, i, x;
 
@@ -33,6 +33,7 @@ void times_table(int n)
 
 				else if (x <= 99 && x >= 10)
 					_putchar((x / 10) + '0');
+
 				_putchar((x % 10) + '0');
 			}
 			_putchar('\n');

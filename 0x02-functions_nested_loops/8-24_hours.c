@@ -1,4 +1,4 @@
-#includee "main.h"
+#include "main.h"
 /**
  * jack_bauer - printing minuets of the day
  */
