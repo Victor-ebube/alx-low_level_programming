@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - checks infinite loop
- * Return: Always 0
+ * main - causes an infinite loop
+ * Return: 0
  */
 
 int main(void)
@@ -11,9 +11,9 @@ int main(void)
 
 	printf("infinite loop incoming :(\n");
 
-	/* i = 0;*/
+	 /*i = 0;*/
 
-	/*while (i > 0)*/
+	/*while (i < 0)*/
 	/*{*/
 		/*putchar(i);*/
 	/*}*/
