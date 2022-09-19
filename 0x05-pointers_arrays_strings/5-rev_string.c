@@ -53,7 +53,7 @@ void rev_str(char *str)
 		tmp = *end_ptr;
 		*end_ptr = *begin_ptr;
 		*begin_ptr = tmp;
-	
+
 		/* update pointer */
 		begin_ptr++;
 		end_ptr--;
