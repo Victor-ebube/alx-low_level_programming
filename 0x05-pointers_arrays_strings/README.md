@@ -1,1 +1,1 @@
-# This directory contains pointers, arrays and strings alx projects
+C Programing Language(This directory contains pointers, arrays and strings alx projects)
